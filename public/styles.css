@@ -8,6 +8,8 @@ html {
 }
 body {
   background: #eee;
+  /* background-image: url("https://www.transparenttextures.com/patterns/flowers.png"); */
+  background-image: url("https://www.transparenttextures.com/patterns/food.png");
   padding: 0 16px;
 }
 
